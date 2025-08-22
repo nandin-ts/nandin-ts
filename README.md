@@ -10,7 +10,7 @@ I work at the intersection of **Earth Observation (EO) based land dynamics and u
 - Developed and implemented **operational validation frameworks** for global land cover maps, including:  
   - [Copernicus Global Land Service Dynamic Land Cover (JRC)](https://land.copernicus.eu/global/)  
   - [ESA WorldCover](https://esa-worldcover.org/en)
-- This validation framework was also used in the validation of **JRC- Global Forest Cover 2020 map** and comparison of other commonly used [global land cover maps](https://landcarbonlab.org/insights/global-land-cover-maps-accuracy-applications/). 
+- Applied this framework to validate **JRC- Global Forest Cover 2020 map** and to compare other commonly used [global land cover maps](https://landcarbonlab.org/insights/global-land-cover-maps-accuracy-applications/). 
 - Active member of **[CEOS Land Product Validation (LPV)](https://lpvs.gsfc.nasa.gov/)**, focusing on land cover, land cover change, and area estimation.  
 
 ## What drives my work
