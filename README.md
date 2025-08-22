@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there — I’m Nandika Tsendbazar
 
-<!--
-**nandin-ts/nandin-ts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work at the intersection of **Earth Observation (EO) based land dynamics and uncertainty assessment**. My research focuses on making EO-based products more reliable, understandable, and useful.
 
-Here are some ideas to get you started:
+## What I do
+- **Monitor land dynamics** — land cover, vegetation, wetlands, and land degradation, using multi-source satellite data, time-series analysis, and machine learning.  
+- **Assess uncertainty in EO maps** —  independent statistical validation, local uncertainty metrics, map comparability analysis, and studies of how well maps serve different purposes, applying statistics, geostatistics, and machine learning.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Where I’ve contributed
+- Developed and implemented **operational validation frameworks** for global land cover maps, including:  
+  - [Copernicus Global Land Service Dynamic Land Cover (JRC)](https://land.copernicus.eu/global/)  
+  - [ESA WorldCover](https://esa-worldcover.org/en)
+- This validation framework was also used in the validation of **JRC- Global Forest Cover 2020 map** and comparison of other commonly used [global land cover maps](https://landcarbonlab.org/insights/global-land-cover-maps-accuracy-applications/). 
+- Active member of **[CEOS Land Product Validation (LPV)](https://lpvs.gsfc.nasa.gov/)**, focusing on land cover, land cover change, and area estimation.  
+
+## What drives my work
+I aim to turn EO data into information that scientists, policymakers, and environmental managers can truly trust and use. Better maps mean better decisions about our changing planet.
+
+---
+
