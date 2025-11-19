@@ -7,9 +7,7 @@ I work at the intersection of **Earth Observation (EO) based land dynamics and u
 - **Assess uncertainty in EO maps** —  independent statistical validation, local uncertainty metrics, map comparability analysis, and studies of how well maps serve different purposes, applying statistics, geostatistics, and machine learning.  
 
 ## Where I’ve contributed
-- Developed and implemented **operational validation frameworks** for global land cover maps, including:  
-  - [Copernicus Global Land Service Dynamic Land Cover](https://land.copernicus.eu/global/)  
-  - [ESA WorldCover](https://esa-worldcover.org/en)
+- Developed and implemented **operational validation frameworks** for global land cover maps: [Copernicus Global Land Service Dynamic Land Cover](https://land.copernicus.eu/global/) and [ESA WorldCover](https://esa-worldcover.org/en)
 - This framework was applied to validate global land and forest cover maps such as **JRC- Global Forest Cover 2020 map**, Dynamic World and GLAD-LULC. 
 - Co-lead land cover focus area of **[CEOS Land Product Validation (LPV)](https://lpvs.gsfc.nasa.gov/)**, focusing on good practices of accuracy and area estimation of land cover and change.  
 
